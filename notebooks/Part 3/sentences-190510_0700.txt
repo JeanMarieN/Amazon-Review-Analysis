@@ -1,0 +1,1 @@
+For group 1 the f1 micro is 0.6273474178403756 and the f1 macro is 0.5676090636520459.For group 2 the f1 micro is 0.6710451170759566 and the f1 macro is 0.6259555123138255.For group 3 the f1 micro is 0.6431014823261118 and the f1 macro is 0.6075195497881808.For group 4 the f1 micro is 0.6736672051696284 and the f1 macro is 0.6019408382257809.

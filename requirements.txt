@@ -1,0 +1,16 @@
+# local package
+-e .
+pandas>=0.24
+python==3.6
+# tensorflow-gpu==1.9 gpu version on server
+# tensorflow==1.9
+seaborn>=0.9
+keras>=2.2
+
+# external requirements
+click
+Sphinx
+coverage
+awscli
+flake8
+python-dotenv>=0.5.1

@@ -1,0 +1,9 @@
+
+    Group 1
+     Sklearn
+      f1 micro 0.0
+      f1 macro is nan
+      Accuracy nan
+     TF
+      ['loss 0.8482779282117477', 'acc 0.6031046378379491']
+      
